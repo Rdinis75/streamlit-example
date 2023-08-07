@@ -1,0 +1,22 @@
+[theme]
+
+primaryColor="#1DCF15"            # Rosad33682
+backgroundColor="#142C35"         #preto 000000
+secondaryBackgroundColor="#586e75" # cinzento verde da side bar 
+textColor="#FFFDFD"
+font="sans serif"
+
+
+#base="dark"
+#primaryColor="#4bff71"
+#secondaryBackgroundColor="#5d5e64"
+#textColor="#FFFDFD"
+#font="sans serif"
+
+
+#primaryColor="#F63366"
+#backgroundColor="#293745"
+#secondaryBackgroundColor="#F0F2F6"
+#textColor="white"
+# font="Sans-Serif,monospace
+
